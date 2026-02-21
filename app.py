@@ -1,6 +1,6 @@
 import io
 import csv
-from turtle import lt
+#from turtle import lt
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
