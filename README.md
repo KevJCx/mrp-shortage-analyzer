@@ -1,3 +1,6 @@
+## Live demo
+https://mrp-shortage-analyzer-kevjc.streamlit.app
+
 # MRP Shortage Analyzer (Python + Streamlit)
 
 Tool to analyze MRP exports and detect material shortages based on projected stock (`Unrestricted`).
